@@ -64,9 +64,6 @@
         <v-btn text @click="$vuetify.goTo('#features')">
           <span class="mr-2">Sobre</span>
         </v-btn>
-        <v-btn text @click="$vuetify.goTo('#download')">
-          <span class="mr-2">Download</span>
-        </v-btn>
         <v-btn text @click="$vuetify.goTo('#pricing')">
           <span class="mr-2">Preços</span>
         </v-btn>
@@ -97,7 +94,7 @@ export default {
     items: [
       ["mdi-home-outline", "Home", "#hero"],
       ["mdi-information-outline", "Sobre", "#features"],
-      ["mdi-download-box-outline", "Download", "#download"],
+      // ["mdi-download-box-outline", "Download", "#download"],
       ["mdi-currency-usd", "Preços", "#pricing"],
       ["mdi-email-outline", "Contatos", "#contact"],
     ],

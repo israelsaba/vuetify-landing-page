@@ -5,12 +5,16 @@
         <v-col cols="10">
           <v-row align="center" justify="center">
             <v-col cols="12" md="6" xl="8">
-              <h1 class="display-2 font-weight-bold mb-4">Vuetify.js</h1>
-              <h1 class="font-weight-light">
-                Lorem ipsum dolor sit amet consectetur <br />
-                adipisicing elit. Maiores porro voluptatibus <br />
-                delectus nam optio harum!
+              <h1 class="display-2 font-weight-bold mb-4">
+                Consultoria Siproquim
               </h1>
+         
+                <ul>
+                  <li><h1 class="font-weight-light">Cadastro de produtos com justificativa</h1><li>
+                  <li> <h1 class="font-weight-light"> Acompanhamento do processo até a finalização</h1></li>
+                  <li> <h1 class="font-weight-light"> Acerto de estoque</h1></li>
+                </ul>
+
               <v-btn
                 rounded
                 outlined
